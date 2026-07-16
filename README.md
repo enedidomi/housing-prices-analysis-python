@@ -38,44 +38,44 @@ Finally, the correlation analysis shows that overall quality has the strongest r
 
 ### Sale Price Statistics
 
-![Sale Price Statistics](sale-price-statistics.png)
+![Sale Price Statistics](screenshots/sale-price-statistics.png)
 
 ### Housing Market Overview
 
-![Housing Market Overview](housing-market-overview.png)
+![Housing Market Overview](screenshots/housing-market-overview.png)
 
 ### Average House Characteristics
 
-![Average House Characteristics](average-house-characteristics.png)
+![Average House Characteristics](screenshots/average-house-characteristics.png)
 
 ### Distribution of House Prices
 
-![Distribution of House Prices](distribution-house-prices.png)
+![Distribution of House Prices](screenshots/distribution-house-prices.png)
 
 ### Boxplot of House Prices
 
-![Boxplot of House Prices](boxplot-house-prices.png)
+![Boxplot of House Prices](screenshots/boxplot-house-prices.png)
 
 ### Living Area vs. Sale Price
 
-![Living Area vs. Sale Price](living-space-vs-price-scatter-plot.png)
+![Living Area vs. Sale Price](screenshots/living-space-vs-price-scatter-plot.png)
 
 ### Living Area vs. Sale Price with Regression Line
 
-![Living Area vs. Sale Price with Regression Line](regression-line-living-area-x-price.png)
+![Living Area vs. Sale Price with Regression Line](screenshots/regression-line-living-area-x-price.png)
 
 ### Average Sale Price by Number of Bedrooms
 
-![Average Sale Price by Number of Bedrooms](avg-price-x-number-bedrooms.png)
+![Average Sale Price by Number of Bedrooms](screenshots/avg-price-x-number-bedrooms.png)
 
 ### Average Sale Price by Overall Quality
 
-![Average Sale Price by Overall Quality](avg-price-x-overall-quality.png)
+![Average Sale Price by Overall Quality](screenshots/avg-price-x-overall-quality.png)
 
 ### Average Sale Price by Year Built
 
-![Average Sale Price by Year Built](avg-price-x-year-built.png)
+![Average Sale Price by Year Built](screenshots/avg-price-x-year-built.png)
 
 ### Correlation with Sale Price
 
-![Correlation with Sale Price](correlation-variables-x-price.png)
+![Correlation with Sale Price](screenshots/correlation-variables-x-price.png)

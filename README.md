@@ -23,3 +23,13 @@ An end-to-end housing price analysis project using Python to clean, explore, vis
 - Data Visualization
 - Correlation Analysis
 - Simple Linear Regression
+
+## Findings
+
+The dataset contains 1,460 houses with an average sale price of $180,921. The average house has 1,515 sq ft of living space, 2.87 bedrooms, 1.57 full bathrooms, and an average overall quality rating of 6.1 out of 10. The houses in the dataset were built between 1872 and 2010, with prices ranging from $34,900 to $755,000.
+
+The distribution of house prices shows that most houses are sold between $100,000 and $200,000, while only a small number of houses are sold at much higher prices. The boxplot also shows the presence of some high-priced outliers.
+
+The scatter plot and regression line show a clear positive relationship between living area and sale price, meaning that larger houses generally sell for higher prices. The analysis also shows that houses with higher overall quality ratings have significantly higher average sale prices.
+
+Finally, the correlation analysis shows that overall quality has the strongest relationship with sale price, followed by living area, garage area, total basement area, and first floor area. Overall, the project identifies the main characteristics that influence house prices and provides useful insights into the housing market.
